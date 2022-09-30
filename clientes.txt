@@ -1,0 +1,13 @@
+Nome do cliente:Matias	CODIGO:4212560
+Telefone Fixo:11343434	Telefone Celular:1192929394
+Endereco:Rua	Numero da casa:0	Complemento:ceara
+Cidade:wea		Bairro:ds
+CEP:44243	UF:4219931	Nome do cliente:Jose	CODIGO:4212560
+Telefone Fixo:112323	Telefone Celular:11343543
+Endereco:21	Numero da casa:2	Complemento:fjdoohf
+Cidade:ggfd		Bairro:grgr
+CEP:3244	UF:4219931	Nome do cliente:Guilherme	CODIGO:4212560
+Telefone Fixo:1111111	Telefone Celular:11111111
+Endereco:Rua	Numero da casa:0	Complemento:n∆o
+Cidade:sei		Bairro:78
+CEP:45787	UF:1	
